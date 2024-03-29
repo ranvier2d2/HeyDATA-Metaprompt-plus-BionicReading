@@ -59,6 +59,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
  ## Contact: 
 
-Feel free to conact me on X at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Dis_Trackted.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Dis_Trackted)
+Feel free to conact me on X for ML related stuff. Happy to talk! [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Dis_Trackted.svg?style=social&label=Follow%20%40Dis_Trackted)](https://twitter.com/Dis_Trackted)
 
 Contributions are always welcome.
