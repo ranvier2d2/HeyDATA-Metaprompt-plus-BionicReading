@@ -1,7 +1,7 @@
 # HeyDATA-Metaprompt-plus-BionicReading
 Run Claude 3 Anthropic's metaprompt with any Large Language Model supported by https://chat.HeyDATA.org  (pretty much any existing model. Soon even Grok-1). Use it as input to activate any DATA Skill. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranvier2d2/DATA-metaprompt-BionicReading/blob/main/meta-data-alternative-markdown.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranvier2d2/HeyDATA-Metaprompt-plus-BionicReading/blob/main/meta-prompt-anyLLM-BionicAnswer.ipynb)
 
 This Jupyter Notebook provides a framework for generating custom prompt templates using Claude, an AI assistant powered by Anthropic. The notebook allows you to input a task, optionally specify input variables, and generate a structured prompt template that can be used to guide other models in completing the task or Skill requested. 
 
